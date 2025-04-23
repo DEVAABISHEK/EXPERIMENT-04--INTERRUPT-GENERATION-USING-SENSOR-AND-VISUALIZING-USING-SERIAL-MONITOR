@@ -3,7 +3,7 @@
 ###  DATE: 23/04/25
 ###  NAME: DEVA ABISHEK P
 ###  ROLL NO : 212223110008
-###  DEPARTMENT: DEVA ABISHEK P
+###  DEPARTMENT: CSE(IOT)
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
